@@ -1,0 +1,7 @@
+﻿  KernelLoader.cpp
+  ShadowInjector.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 250 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ShadowInjector.vcxproj -> C:\cheat\ShadowInjector.exe

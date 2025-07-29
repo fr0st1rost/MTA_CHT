@@ -1,0 +1,8 @@
+D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\CheatGUI.cpp;D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\Release\CheatGUI.obj
+D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\core.cpp;D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\Release\core.obj
+D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\dllmain.cpp;D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\Release\dllmain.obj
+D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\KernelComm.cpp;D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\Release\KernelComm.obj
+D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\LuaIntegration.cpp;D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\Release\LuaIntegration.obj
+D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\MemoryDumper.cpp;D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\Release\MemoryDumper.obj
+D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\pch.cpp;D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\Release\pch.obj
+D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\Stealth.cpp;D:\MTA_IMIP_Dev\MTA_CHT\CoreDLL\Release\Stealth.obj

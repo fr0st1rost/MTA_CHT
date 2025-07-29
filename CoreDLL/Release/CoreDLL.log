@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  CheatGUI.cpp
+  core.cpp
+  dllmain.cpp
+  KernelComm.cpp
+  LuaIntegration.cpp
+  MemoryDumper.cpp
+  Stealth.cpp
+     Creating library C:\cheat\CoreDLL.lib and object C:\cheat\CoreDLL.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 413 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CoreDLL.vcxproj -> C:\cheat\CoreDLL.dll
